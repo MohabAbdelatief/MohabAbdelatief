@@ -10,7 +10,7 @@ by paying customers.
 
 ### Featured
 
-**🎵 Gestura — Hands-Free Music Player**  ·  [App Store](「link」) · [Code](「repo link」)
+**🎵 Gestura — Hands-Free Music Player**  
 Control playback with real-time hand gestures — no touch needed. Custom CoreML
 hand-pose classifier (**99.6% test accuracy**) + Vision, running fully on-device.
 `SwiftUI · CoreML · Vision · Create ML · Swift Concurrency`
@@ -20,10 +20,5 @@ Translates assembly into machine code — symbol-table generation + label resolu
 `Swift`
 
 ---
-
-### Tech
-Swift · SwiftUI · UIKit · CoreML · Vision · Create ML · AVFoundation ·
-MVVM · Swift Concurrency · Combine · Git
-
 ### Reach me
 [LinkedIn](https://linkedin.com/in/mohabaltabaa) · mohababdelatief@icloud.com

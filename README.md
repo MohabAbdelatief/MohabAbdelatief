@@ -3,14 +3,15 @@
 ### iOS Developer · SwiftUI · On-device ML · Open to Remote
 
 I build iOS apps end to end — from SwiftUI interfaces to on-device machine
-learning. I've shipped an app on the App Store and a commercial product used
-by paying customers.
+learning. I've built a hands-free music player powered by a custom-trained
+ML model, and a localized (English/Spanish) language-learning app that I
+sold to a client.
 
-🔭 Open to remote / junior iOS roles  ·  🌍 Based in Egypt, working remotely
+🔭 Open to remote iOS roles  ·  🌍 Based in Egypt
 
 ### Featured
 
-**🎵 Gestura — Hands-Free Music Player**  
+**🎵 Gestura — Hands-Free Music Player**  · 
 Control playback with real-time hand gestures — no touch needed. Custom CoreML
 hand-pose classifier (**99.6% test accuracy**) + Vision, running fully on-device.
 `SwiftUI · CoreML · Vision · Create ML · Swift Concurrency`
@@ -21,4 +22,4 @@ Translates assembly into machine code — symbol-table generation + label resolu
 
 ---
 ### Reach me
-[LinkedIn](https://linkedin.com/in/mohabaltabaa) · mohababdelatief@icloud.com
+[LinkedIn](https://linkedin.com/in/「confirm-handle」) · mohababdelatief@icloud.com

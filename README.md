@@ -7,6 +7,9 @@ I build iOS apps end to end — from SwiftUI interfaces to on-device machine lea
 🔭 Open to remote iOS roles  ·  🌍 Based in Egypt
 
 ### Featured
+**🚀 LiftOff — Live Rocket Launch Tracker** · [Code](https://github.com/MohabAbdelatief/LiftOff)<br>
+Upcoming launches from a live API, with a **countdown ticking every second** to T-0. Hand-written `Decodable` flattens four levels of nested JSON; loading, empty and error states all handled.<br>
+`SwiftUI · Swift Concurrency · @Observable · Swift Testing`
 
 **🎵 Gestura — Hands-Free Music Player** · [Code](https://github.com/MohabAbdelatief/Gestura)<br>
 Control playback with real-time hand gestures — no touch needed. Custom CoreML hand-pose classifier (**99.6% test accuracy**) + Vision, running fully on-device.<br>

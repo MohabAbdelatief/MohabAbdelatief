@@ -26,13 +26,6 @@ nothing from the camera is recorded or leaves the phone.<br>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/home.png" width="155" alt="Home">
-<img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/gesture-control.png" width="155" alt="Gesture control">
-<img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/now-playing.png" width="155" alt="Now Playing">
-<img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/library.png" width="155" alt="Library">
-</p>
-
 **🚀 LiftOff — Live Rocket Launch Tracker** · [Code](https://github.com/MohabAbdelatief/LiftOff)<br>
 Upcoming launches from a live API, with a **countdown ticking every second** to T-0. Hand-written `Decodable` flattens four levels of nested JSON; loading, empty and error states all handled.<br>
 `SwiftUI · Swift Concurrency · @Observable · Swift Testing`

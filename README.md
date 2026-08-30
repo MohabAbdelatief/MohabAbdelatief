@@ -7,13 +7,35 @@ I build iOS apps end to end — from SwiftUI interfaces to on-device machine lea
 🔭 Open to remote iOS roles  ·  🌍 Based in Egypt
 
 ### Featured
+
+<table>
+<tr>
+<td width="104" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/app-icon.png" width="84" alt="Gestura app icon">
+</td>
+<td valign="top">
+<b>🎵 Gestura — Hands-Free Music Player</b> &nbsp;·&nbsp; <i>Coming to the App Store</i><br>
+Control playback with real-time hand gestures — no touch needed. A CoreML hand-pose
+classifier I trained myself (<b>99.6% test accuracy</b>) runs with Vision fully on-device;
+nothing from the camera is recorded or leaves the phone.<br>
+<code>SwiftUI · CoreML · Vision · Create ML · Swift Concurrency</code><br>
+<a href="https://github.com/MohabAbdelatief/Gestura">Code</a> ·
+<a href="https://mohababdelatief.github.io/Gestura/support.html">Support</a> ·
+<a href="https://mohababdelatief.github.io/Gestura/privacy.html">Privacy</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/home.png" width="155" alt="Home">
+<img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/gesture-control.png" width="155" alt="Gesture control">
+<img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/now-playing.png" width="155" alt="Now Playing">
+<img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/library.png" width="155" alt="Library">
+</p>
+
 **🚀 LiftOff — Live Rocket Launch Tracker** · [Code](https://github.com/MohabAbdelatief/LiftOff)<br>
 Upcoming launches from a live API, with a **countdown ticking every second** to T-0. Hand-written `Decodable` flattens four levels of nested JSON; loading, empty and error states all handled.<br>
 `SwiftUI · Swift Concurrency · @Observable · Swift Testing`
-
-**🎵 Gestura — Hands-Free Music Player** · [Code](https://github.com/MohabAbdelatief/Gestura)<br>
-Control playback with real-time hand gestures — no touch needed. Custom CoreML hand-pose classifier (**99.6% test accuracy**) + Vision, running fully on-device.<br>
-`SwiftUI · CoreML · Vision · Create ML · Swift Concurrency`
 
 **🇪🇬 Masringo — Egyptian Arabic Learning App** · [Code](https://github.com/MohabAbdelatief/Masringo)<br>
 A SwiftUI app for English & Spanish speakers with in-app runtime localization, audio lessons, and interactive exercises.<br>

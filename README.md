@@ -22,17 +22,17 @@ Control playback with real-time hand gestures — no touch needed. A CoreML hand
 
 **🚀 LiftOff — Live Rocket Launch Tracker**
 Upcoming launches from a live API, with a **countdown ticking every second** to T-0. Hand-written `Decodable` flattens four levels of nested JSON; loading, empty and error states all handled.<br>
-`SwiftUI · Swift Concurrency · @Observable · Swift Testing`
+`SwiftUI · Swift Concurrency · @Observable · Swift Testing`<br>
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohabAbdelatief/LiftOff)<br>
 
 **🇪🇬 Masringo — Egyptian Arabic Learning App**
 A SwiftUI app for English & Spanish speakers with in-app runtime localization, audio lessons, and interactive exercises.<br>
-`SwiftUI · AVFoundation · Localization`
+`SwiftUI · AVFoundation · Localization`<br>
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohabAbdelatief/Masringo)<br>
 
 **⚙️ Two-Pass Assembler**
 Translates assembly into machine code — symbol-table generation + label resolution.<br>
-`Swift`
+`Swift`<br>
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohabAbdelatief/Two-Pass-Assembler)<br>
 
 ---

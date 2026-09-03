@@ -37,4 +37,6 @@ Translates assembly into machine code — symbol-table generation + label resolu
 
 ---
 ### Reach me
-[LinkedIn](https://linkedin.com/in/mohabashrafios) · mohababdelatief@icloud.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohabashrafios)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mohababdelatief@icloud.com)

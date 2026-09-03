@@ -10,7 +10,7 @@ I build iOS apps end to end — from SwiftUI interfaces to on-device machine lea
 
 <img src="https://raw.githubusercontent.com/MohabAbdelatief/Gestura/main/assets/app-icon.png" width="104" align="left" alt="Gestura app icon">
 
-**🎵 Gestura — Hands-Free Music Player** · *Coming to the App Store*<br>
+**🎵 Gestura — Hands-Free Music Player** · *Available on the App Store*<br>
 Control playback with real-time hand gestures — no touch needed. A CoreML hand-pose classifier I trained myself (**99.6% test accuracy**) runs with Vision fully on-device.<br>
 `SwiftUI · CoreML · Vision · Create ML · Swift Concurrency`<br>
 [![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/gestura-gesture-music-player/id6806563234)

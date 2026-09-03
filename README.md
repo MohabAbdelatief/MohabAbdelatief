@@ -1,10 +1,15 @@
 # Hi, I'm Mohab 👋
+---
+### Contact Info
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohabashrafios)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mohababdelatief@icloud.com)
 
 ### iOS Developer · SwiftUI · On-device ML · Open to Remote
 
 I build iOS apps end to end — from SwiftUI interfaces to on-device machine learning. I've built a hands-free music player powered by a custom-trained ML model, and a localized (English/Spanish) language-learning app that I sold to a client.
 
-🔭 Open to remote iOS roles  ·  🌍 Based in Egypt
+🌍 Based in Egypt
 
 ### Featured
 
@@ -34,9 +39,3 @@ A SwiftUI app for English & Spanish speakers with in-app runtime localization, a
 Translates assembly into machine code — symbol-table generation + label resolution.<br>
 `Swift`<br>
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohabAbdelatief/Two-Pass-Assembler)<br>
-
----
-### Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohabashrafios)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mohababdelatief@icloud.com)
